@@ -1,1 +1,1 @@
-Frontend :- Html,Css,JavaScript,Bootstrap
+Frontend batch  :- Html,Css,JavaScript,Bootstrap
